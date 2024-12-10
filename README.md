@@ -52,7 +52,15 @@ Desenvolver uma aplicação web que permita aos usuários se cadastrarem e fazer
 3. Abra o arquivo `index.html` em seu navegador para visualizar a aplicação.
 
 ## **Estrutura de Pastas**
-```/projeto-login |-- index.html # Página inicial |-- html.html # Página de sucesso após login |-- styles.css # Arquivo de estilos |-- script.js # Arquivo de script |-- README.md # Arquivo de documentação```
+```
+/projeto-login 
+|-- index.html # Página inicial
+|-- html.html # Página de sucesso após login
+|-- styles.css # Arquivo de estilos
+|-- script.js # Arquivo de script
+|-- README.md # Arquivo de documentação
+```
+
 
 ## **Melhorias Futuras**
 
