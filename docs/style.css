@@ -237,3 +237,24 @@ footer p {
         height: auto;
     }
 }
+
+.container {
+width: 100%;
+display: grid;
+align-items: center;
+justify-content: center;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(4, 150px);
+    gap: 5px;
+    justify-content: center;
+    margin-top: 60px;
+}
+
+.grid img {
+    width: 100%;
+    height: auto;
+}
+
